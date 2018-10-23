@@ -21,6 +21,7 @@ login.php
 - Error logging
 - Requires succcessful login to allow editing of database details
 - Flash messages set up
+
 add.php
 - Introduction of Javascript 
     - ready(function)
@@ -34,6 +35,7 @@ add.php
 - Prepared statements using PDO
 - SQl query to insert into database
 - Flash messages set up
+
 edit.php
 - Requires successful login to work
 - Form fields with data validation (!is_numeric)
@@ -48,6 +50,7 @@ edit.php
     - event.preventDefault()
     - console.log
     - append()
+    
 delete.php
 - Requires successful login to work
 - Prepared statements using PDO
@@ -55,9 +58,12 @@ delete.php
 - Set up to prevent code injection displaying on site
 - Flash messages set up
 - Guardians set up to ensure specific data requirements are present before changing data
+
 pdo.php
 - Connects to database
+
 logout.php
 - Session destroy
+
 util.php
 -Function library to prevent code duplication throughout documents
