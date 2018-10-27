@@ -1,4 +1,6 @@
 <?php
+
+//Testing github commits
 require_once "pdo.php";
 
 session_start();
