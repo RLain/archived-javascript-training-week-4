@@ -1,5 +1,5 @@
-# javascript-training-week-3
-Coursera: JavaScript, jQuery, and JSON - Week 3
+# javascript-training-week-4
+Coursera: JavaScript, jQuery, and JSON - Week 4
 
 
 MOOC: Coursera - JavaScript, jQuery, and JSON

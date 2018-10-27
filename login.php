@@ -59,10 +59,11 @@ if(isset($_POST['email']) && isset($_POST['pass'])) {
 <!DOCTYPE>
 <html>
 <head>
-        <title>Rebecca's Profile Database e2c4c0b3</title>
-        <meta charset="UTF-8">
-        <meta content="Coursera: Javascript Week 3 Course">
-    </head>
+<title> Rebecca Lain - Javascript Week 4 - c68bd905 </title>
+<meta charset="UTF-8">
+<meta content="Coursera: Javascript Week 4 Course">
+<?php require_once "head.php"; ?>
+</head>
     <body>
         <main>
             <h1>Rebecca Lain's Resume Registry</h1>

@@ -79,10 +79,11 @@ if ( isset($_POST['first_name']) && isset($_POST['last_name'])
 <!DOCTYPE>
 <html>
 <head>
-        <title>Rebecca's Profile Database e2c4c0b3</title>
-        <meta charset="UTF-8">
-        <meta content="Coursera: Javascript Week 3 Course">
-    </head>
+<title> Rebecca Lain - Javascript Week 4 - c68bd905 </title>
+<meta charset="UTF-8">
+<meta content="Coursera: Javascript Week 4 Course">
+<?php require_once "head.php"; ?>
+</head>
 <body>
 <main>
 <?php
@@ -115,10 +116,7 @@ flashMessages();
         </ul>
 </form>
 </main>
-<script
-  src="https://code.jquery.com/jquery-3.2.1.js"
-  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-  crossorigin="anonymous"></script>
+
 <script>
 countPos = 0;
 

@@ -22,10 +22,11 @@ $profile_id = $row['profile_id'];
 <!DOCTYPE>
 <html>
 <head>
-        <title>Rebecca's Profile Database 66cf2135</title>
-        <meta charset="UTF-8">
-        <meta content="Coursera: Javascript Week 1 Course">
-    </head>
+<title> Rebecca Lain - Javascript Week 4 - c68bd905 </title>
+<meta charset="UTF-8">
+<meta content="Coursera: Javascript Week 4 Course">
+<?php require_once "head.php"; ?>
+</head>
 <body>
 <main>
 
@@ -58,11 +59,6 @@ $profile_id = $row['profile_id'];
 <a href="index.php">Done</a>
 
 </main>
-
-<script
-  src="https://code.jquery.com/jquery-3.2.1.js"
-  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-  crossorigin="anonymous"></script>
 
 </body>
 <style>
